@@ -1,0 +1,40 @@
+{
+  "dummyData": [
+    {
+      "title": "Learn ReactJS",
+      "description": "Learn React with Projects",
+      "completed": "true",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Learn Java",
+      "description": "Learn Java with Projects",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Learn SpringBoot",
+      "description": "Learn SpringBoot with Projects",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Learn AWS",
+      "description": "Learn AWS with Projects",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Learn JavaScript",
+      "description": "Learn JavaScript with Projects",
+      "completed": true
+    },
+    {
+      "id": "fa84",
+      "title": "C++",
+      "description": "Learn By Doing DSA",
+      "completed": false
+    }
+  ]
+}
